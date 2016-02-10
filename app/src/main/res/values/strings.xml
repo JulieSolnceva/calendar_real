@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="timeTitle">время</string>
+    <string name="titleTitle">название</string>
+    <string name="teacherTitle">преподаватель</string>
+    <string name="TimePickerDialogTitle">Выберите время</string>
+    <string name="db_mode">develop</string>
+    <!-- работа с тестовой БД = test -->
+    <!--  <string name="db_mode">develop</string>  db adapter for development -> работа с боевой БД  -->
+
+    <string name="eventInsertError">Произошла ошибка при добавлении события! Событие не добавлено.</string>
+
+</resources>
